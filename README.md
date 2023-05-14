@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [MnRoots 🌸](https://dry-bastion-59200.herokuapp.com/#/home)
 
-- 🌱 I’m currently learning **React, C#, .NET**
+- 🌱 I’m currently learning **AWS S3 buckets, C#, .NET, and Jest**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **How liberal arts education contributes to tech!**
 
 - 📫 How to reach me: **lilylacosse@gmail.com**
 
-- ⚡ Fun fact **I love to mountain bike 🚲**
+- ⚡ Fun fact: **I love to mountain bike 🚲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
